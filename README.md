@@ -6,5 +6,5 @@
 <h6 align="center">Are these Methods detected? <br> Probably not</h6>
 
 <p align="center">
-  <img width="300" height="300" src="https://raw.githubusercontent.com/Pugsluv3r/Lookingtoskid-questionmark/blob/main/Icon.png">
+  <img width="300" height="300" src="https://github.com/Pugsluv3r/Lookingtoskid-questionmark/blob/e4a45b88acaa245b22ecaab91ba80e1796b7fdb1/Icon.png">
 </p>
