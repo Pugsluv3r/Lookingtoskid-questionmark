@@ -1,3 +1,7 @@
-# Hi these are methods that ive collected whilst working on breeze
-some of these may work some of them may not dont ask me
-## have fun skidding
+<h1 align="center">This Repo is esentially just a giant collection of methods</h1>
+<h4 align="center">Why:</h4>
+<h6 align="center">So basically i was really bored</h6>
+<h2 align="center">I have methods i would like to share:</h2>
+<h5 align="center">Anyone is welcome to make a pull request if you would like to add a method i will most likely accept it</h5>
+<h6 align="center">Are these Methods detected? <br> Probably not</h6>
+
